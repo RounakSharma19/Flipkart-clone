@@ -1,0 +1,70 @@
+{
+    "items": [
+      {
+        "id": 0,
+        "name": "Men's shoe",
+        "brand": "Levi's",
+        "price": 99,
+        "size": ["S", "M", "L", "XL"],
+        "gender": "Male",
+        "image": "https://i.dummyjson.com/data/products/46/1.webp"
+      },
+      {
+        "id": 1,
+        "name": "Men's shoe",
+        "brand": "Nike",
+        "price": 49,
+        "size": ["S", "M"],
+        "gender": "Male",
+        "image": "https://i.dummyjson.com/data/products/47/1.jpg"},
+      {
+        "id": 2,
+        "name": "Men's leather shoe",
+        "brand": "Nike",
+        "price": 29,
+        "size": ["M", "L"],
+        "gender": "Male",
+        "image": "https://i.dummyjson.com/data/products/48/1.jpg"},
+      {
+        "id": 3,
+        "name": "Men's shoe",
+        "brand": "Levi's",
+        "price": 49,
+        "size": ["S", "M", "L", "XL"],
+        "gender": "Male",
+        "image": "https://i.dummyjson.com/data/products/49/1.jpg"},
+      {
+        "id": 4,
+        "name": "Women's shoe",
+        "brand": "Levi's",
+        "price": 79,
+        "size": ["S", "M", "L", "XL"],
+        "gender": "Female",
+        "image": "https://i.dummyjson.com/data/products/50/1.jpeg" },
+      {
+        "id": 5,
+        "name": "Women's shoe",
+        "brand": "Nike",
+        "price": 59,
+        "size": ["S", "M"],
+        "gender": "Female",
+        "image": "https://i.dummyjson.com/data/products/56/1.jpg"  },
+      {
+        "id": 6,
+        "name": "Women's shoe",
+        "brand": "Nike",
+        "price": 99,
+        "size": ["S", "M", "L", "XL"],
+        "gender": "Female",
+        "image": "https://i.dummyjson.com/data/products/57/1.jpg"     },
+      {
+        "id": 7,
+        "name": "Women's shoe",
+        "brand": "Levi's",
+        "price": 49,
+        "size": ["M"],
+        "gender": "Female",
+        "image": "https://i.dummyjson.com/data/products/58/4.jpg"    }
+    ]
+  }
+  
